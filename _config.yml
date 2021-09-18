@@ -1,0 +1,5 @@
+title: "MDI Docs Template"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: mdi
+search_enabled: true
+logo: "/assets/images/portal_blur_200px.png"
