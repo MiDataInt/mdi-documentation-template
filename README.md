@@ -1,5 +1,5 @@
 <!--- edit the following header with the short name of your repository, e.g My Pipelines --->
-## MDI Docs Template README
+## {{ site.title }}
 
 <!--- do not change any other line is this file --->
 {% include merged-overview.md %}
@@ -23,7 +23,6 @@ Clone, copy or download this repository.
 Open and edit the following files, following the instructions in the comments
 regarding which specific lines you need to edit to match your repository:
 
-- README.md (i.e., this file)
 - _config.yml
 - _docs/overview.md
 - _includes/repository-overview.md

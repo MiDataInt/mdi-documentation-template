@@ -1,2 +1,2 @@
 <!--- edit this file with information about your repository, suite, etc. -->
-Information about this repository.
+**{{ site.title }}** is (... follow with information about this repository).
