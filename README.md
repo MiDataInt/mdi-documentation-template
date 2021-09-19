@@ -1,7 +1,6 @@
-<!--- edit the following header with the short name of your repository, e.g My Pipelines --->
+<!--- README.md is always the 1st page loaded by GitHub Pages on github.io  --->
+<!--- do not change any lines in this file --->
 ## {{ site.title }}
-
-<!--- do not change any other line is this file --->
 {% include merged-overview.md %}
 <div style="display: {% if site %} none {% else %} block {% endif %};">
   

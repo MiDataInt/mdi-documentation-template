@@ -1,5 +1,10 @@
 # edit the following title with the short name of your repository, e.g My Pipelines
-title: "MDI Docs Template CONFIG"
+title: "MDI Docs Template"
+
+# edit the following link used for the upper right navigation
+aux_links:
+  "Go To GitHub":
+    - "https://github.com/MiDataInt/mdi-documentation-template"
 
 # do not change any other lines in this file
 remote_theme: MiDataInt/just-the-docs

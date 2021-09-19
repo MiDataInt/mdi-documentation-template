@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MDI Docs Template OVERVIEW
+title: MDI Docs Template
 has_children: false
 nav_order: 1
 ---
