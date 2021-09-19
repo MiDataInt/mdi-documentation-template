@@ -1,5 +1,5 @@
 ## MDI Documentation
-{% include mdi-project-documentation.md %}{% include repository-overview.md %}
+{% include overview.md %}
 <div style="display: {% if site %} none {% else %} block {% endif %};">
   
 ## Template description
@@ -10,22 +10,33 @@ for all
 documentation sites for repositories that are 
 part of, or associated with, the **Michigan Data Interface**.
 
-This template uses the open source documentation theme 
+This template uses a fork of the open source documentation theme 
 [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
 ## Template usage
 
-Clone, copy or download this repository. Etc.
+Clone, copy or download this repository. 
 
-Please keep the first tag of README.md as '## MDI Documentation'. 
-'MDI Documentation' will then appear as the last page link in your table of 
-contents and will display the two markdown files included at the top of this file. 
+Open and edit the following files, following the instructions in the comments
+regarding which specific lines you need to edit to match your repository:
+
+- _config.yml
+- _includes/overview.md
+- _includes/repository-overview.md
+
+Finally, create documentation page files within the '_docs' folder.
+A few example files are present to help you see how pages are used,
+which you can see in action here:
+
+https://midataint.github.io/mdi-documentation-template/
 
 ## Just the Docs usage
+
 Please see the 
 [Just the Docs](https://pmarsceill.github.io/just-the-docs/) 
 documentation.
 
+<!---
 ## Bug note
 
 Given how GitHub Pages are
@@ -36,6 +47,7 @@ Just the Docs, nor can you use 'nav_order' to force it to be listed first.
 You also _cannot_ simply remove README.md as this will 
 also cause GitHub Pages to return a 404 error. Ensuring that README.md
 is always present but last is an effective workaround for this behavior.
-  
+--->
+
 </div>
 

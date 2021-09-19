@@ -1,26 +1,18 @@
+# change the title to match your repository, suite, etc.
 title: "MDI Docs Template"
+
+# do not change any other lines below
 remote_theme: MiDataInt/just-the-docs
 color_scheme: mdi
 search_enabled: true
 logo: "/assets/images/portal_blur_200px.png"
 
-# Define Jekyll collections
+# only page files in the _docs directory will be used
 collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
   docs:
     permalink: "/:collection/:path/"
     output: true
-
 just_the_docs:
-  # Define which collections are used in just-the-docs
   collections:
-    # Reference the "docs" collection
     docs:
-      # Give the collection a name
       name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
