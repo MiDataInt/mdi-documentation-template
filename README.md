@@ -1,5 +1,8 @@
-## Overview
-{% include overview.md %}
+<!--- edit the following header with the short name of your repository, e.g My Pipelines --->
+## MDI Docs Template README
+
+<!--- do not change any other line is this file --->
+{% include merged-overview.md %}
 <div style="display: {% if site %} none {% else %} block {% endif %};">
   
 ## Template description
@@ -20,8 +23,9 @@ Clone, copy or download this repository.
 Open and edit the following files, following the instructions in the comments
 regarding which specific lines you need to edit to match your repository:
 
+- README.md (i.e., this file)
 - _config.yml
-- _includes/overview.md
+- _docs/overview.md
 - _includes/repository-overview.md
 
 Finally, create documentation page files within the '_docs' folder.
@@ -36,18 +40,4 @@ Please see the
 [Just the Docs](https://pmarsceill.github.io/just-the-docs/) 
 documentation.
 
-<!---
-## Bug note
-
-Given how GitHub Pages are
-built, you _cannot_ include Jekyll front matter in README.md. If you do,
-you will get a 404 Page Not Found error. Accordingly, you
-_cannot_ use 'nav_exclude' to prevent README.md from being indexed by
-Just the Docs, nor can you use 'nav_order' to force it to be listed first.
-You also _cannot_ simply remove README.md as this will 
-also cause GitHub Pages to return a 404 error. Ensuring that README.md
-is always present but last is an effective workaround for this behavior.
---->
-
 </div>
-

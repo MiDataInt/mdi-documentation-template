@@ -1,12 +1,14 @@
 ---
 layout: default
-title: MDI Docs Template
+title: MDI Docs Template OVERVIEW
 has_children: false
 nav_order: 1
 ---
 
-<!--- change the title, above, to match your repository, suite, etc. -->
+<!--- edit the title above with the short name of your repository, e.g My Pipelines -->
 <!--- do not change any other lines in this file -->
 <!--- DO NOT DELETE THIS FILE -->
 
-{% include overview.md %}
+## {{ page.title }}
+
+{% include merged-overview.md %}

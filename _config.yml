@@ -1,7 +1,7 @@
-# change the title to match your repository, suite, etc.
-title: "MDI Docs Template"
+# edit the following title with the short name of your repository, e.g My Pipelines
+title: "MDI Docs Template CONFIG"
 
-# do not change any other lines below
+# do not change any other lines in this file
 remote_theme: MiDataInt/just-the-docs
 color_scheme: mdi
 search_enabled: true
