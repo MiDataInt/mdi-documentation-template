@@ -3,9 +3,6 @@
 ## {{ site.title }}
 {% include merged-overview.md %}
 
-VERSION 22
-
-
 <div style="display: {% if site %} none {% else %} block {% endif %};">
   
 ## Template description
