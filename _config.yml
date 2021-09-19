@@ -28,6 +28,7 @@ just_the_docs:
 # footer content
 back_to_top: true
 back_to_top_text: "Top of page"
+footer_content: " "
 
 # web tracking
 # ga_tracking: UA-1234567-89 # Google Analytics
