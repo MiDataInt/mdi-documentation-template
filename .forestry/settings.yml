@@ -9,7 +9,7 @@ sections:
   label: _includes
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: _docs
   label: Docs
