@@ -1,9 +1,0 @@
----
-label: Test Template
-hide_body: false
-fields:
-- name: test_field
-  type: text
-  config:
-    required: false
-  label: Test Field
