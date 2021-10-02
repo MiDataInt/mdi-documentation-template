@@ -1,4 +1,4 @@
-# edit the following title with the short name of your repository, e.g My Pipelines
+# edit the following title and description to match your repository
 title: "MDI Docs Template"
 description: "Template for MDI repository documentation"
 
@@ -27,7 +27,7 @@ just_the_docs:
 
 # footer content
 back_to_top: true
-#back_to_top_text: "Top of page"
+back_to_top_text: "Top of page"
 footer_content: " "
 
 # web tracking
