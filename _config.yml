@@ -27,7 +27,7 @@ just_the_docs:
 
 # footer content
 back_to_top: true
-back_to_top_text: "Top of page"
+#back_to_top_text: "Top of page"
 footer_content: " "
 
 # web tracking
