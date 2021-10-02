@@ -12,7 +12,7 @@ The **mdi-documentation-template** repository is a starting point for all
 documentation sites for repositories that are part of, or associated with, 
 the **Michigan Data Interface**.
 
-This template uses a fork and minor revision of the open source documentation  
+This template uses a fork and minor revision of the open source documentation 
 theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
 ## Template usage
