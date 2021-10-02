@@ -7,21 +7,24 @@
   
 ## Template description
 
-The **mdi-documentation-template** repository is a starting point
-for all 
+The **mdi-documentation-template** repository is a starting point for all 
 [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
-documentation sites for repositories that are 
-part of, or associated with, the **Michigan Data Interface**.
+documentation sites for repositories that are part of, or associated with, 
+the **Michigan Data Interface**.
 
-This template uses a fork of the open source documentation theme 
-[Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+This template uses a fork and minor revision of the open source documentation  
+theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
 ## Template usage
 
-Clone, copy or download this repository. 
+From this template's repository on GitHub, click the big, green button 
+labeled "Use this template". You will be prompted for the user and name
+of the repository you would like to create and fill using this template.
 
+Fork and clone your new repository as you normally would for any repository.
+  
 Open and edit the following files, following the instructions in the comments
-regarding which specific lines you need to edit to match your repository:
+regarding which specific lines you need to edit to match your needs:
 
 - _config.yml
 - _docs/overview.md
