@@ -1,5 +1,4 @@
 <!--- README.md is always the 1st page loaded by GitHub Pages on github.io  --->
-<!--- do not change any lines in this file --->
 ## {{ site.title }}
 {% include merged-overview.md %}
 
@@ -33,6 +32,7 @@ regarding which specific lines you need to edit to match your needs:
 - _config.yml
 - _docs/overview.md
 - _includes/repository-overview.md
+- README.md (to delete these instructions, if desired)
   
 ### Activate your documentation web page on github.io
   
