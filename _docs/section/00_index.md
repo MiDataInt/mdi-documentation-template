@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Parent_Title
 has_children: true
 nav_order: 3

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Child_Title
 parent: Parent_Title
 has_children: false
