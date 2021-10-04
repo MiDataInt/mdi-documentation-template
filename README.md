@@ -1,5 +1,8 @@
 <!--- README.md is always the 1st page loaded by GitHub Pages on github.io  --->
 ## {{ site.title }}
+
+THIS IS README.md content.
+
 {% include merged-overview.md %}
 
 <div style="display: {% if site %} none {% else %} block {% endif %};">
@@ -8,11 +11,12 @@
 
 The **mdi-documentation-template** is a starting point for all 
 [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
-documentation sites for repositories that are part of, or associated with, 
+documentation sites that are part of, or associated with, 
 the **Michigan Data Interface**.
 
-This template uses a fork and minor revision of the open source documentation 
-theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+This template uses a permanent, customized fork of the open source Jekyll documentation 
+theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/), called
+[just-the-docs-mdi](https://github.com/MiDataInt/just-the-docs-mdi).
 
 ## Template usage
 
@@ -62,7 +66,7 @@ Please see the
 [Just the Docs](https://pmarsceill.github.io/just-the-docs/) 
 documentation.
 
-## Content License
+## License
 
 The content of this repository and web site is subject to
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/).
