@@ -35,11 +35,11 @@ footer_content: " "
 plugins:
   - jekyll-seo-tag
 
-# page defaults
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
+# # page defaults
+# defaults:
+#   -
+#     scope:
+#       path: "" # an empty string here means all files in the project
+#       type: "pages"
+#     values:
+#       layout: "default"
