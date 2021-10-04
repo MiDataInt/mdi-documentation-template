@@ -1,6 +1,4 @@
 <!--- README.md is always the 1st page loaded by GitHub Pages on github.io  --->
-<!-- ## {{ site.title }} -->
-<!-- {% include merged-overview.md %} -->
 
 This is README.md
 
