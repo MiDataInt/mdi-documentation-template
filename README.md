@@ -1,7 +1,6 @@
-<!--- README.md is always the 1st page loaded by GitHub Pages on github.io  --->
-
-This is README.md 3
-
+<!--- do not delete these lines, they create the default, i.e., root, page  --->
+## {{ site.title }}
+{% include merged-overview.md %}
 <div style="display: {% if site %} none {% else %} block {% endif %};">
   
 ## Template description
