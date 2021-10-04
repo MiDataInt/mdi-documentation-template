@@ -2,6 +2,8 @@
 <!-- ## {{ site.title }} -->
 <!-- {% include merged-overview.md %} -->
 
+This is README.md
+
 <div style="display: {% if site %} none {% else %} block {% endif %};">
   
 ## Template description
