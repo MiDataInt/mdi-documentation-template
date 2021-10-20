@@ -2,7 +2,7 @@
 {% include merged-overview.md %}
 <div style="display: {% if site %} none {% else %} block {% endif %};">
   
-## Template description
+## Template description xxx
 
 The **mdi-documentation-template** is a starting point for all 
 [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
