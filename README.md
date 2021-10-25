@@ -23,8 +23,7 @@ theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/), called
 
 You will be prompted for the user and name
 of the repository you would like to create and fill using this template.
-
-Fork and clone your new repository as you normally would for any repository.
+Fork and clone your new repository as you normally would.
 
 ### Configure your new repository's basic information
 
@@ -46,10 +45,10 @@ Activate your new documentation site for loading via github.io as follows:
 - click 'Save'
   
 After about a minute, your site will be live at the link indicated on the
-Settings / Pages page.  It will track your respository to keep your site up
+Settings / Pages page.  It will track your repository to keep your site up
 to date whenever you push or merge changes into the 'main' branch.
   
-### Write your documenation files
+### Write your documentation files
 
 Finally, create documentation page files within the '_docs' folder.
 A few example files are present to help you see how pages are used,
@@ -67,5 +66,3 @@ documentation.
 
 The content of this repository and web site is subject to
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/).
-
-</div>
