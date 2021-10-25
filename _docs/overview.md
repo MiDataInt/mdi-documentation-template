@@ -2,6 +2,7 @@
 title: MDI Docs Template
 layout: overview
 has_children: false
+nav_order: 0
 ---
 
 <!--- edit the title above with the short name of your repository, e.g My Pipelines -->
