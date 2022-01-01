@@ -5,11 +5,10 @@ The **mdi-documentation-template** is a starting point for selected
 documentation sites that are part of, or associated with, the **Michigan Data Interface**.
 
 You do _not_ want to use this template to document your
-pipelines or apps suite - the suite templates have all components
+tool suite - the suite template has all components
 to build a documentation site for your suite repository. 
 
-- <https://github.com/MiDataInt/mdi-pipelines-suite-template>
-- <https://github.com/MiDataInt/mdi-apps-suite-template>
+- <https://github.com/MiDataInt/mdi-suite-template>
 
 This template uses a permanent, customized fork of the open source Jekyll documentation 
 theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/), called
@@ -19,7 +18,8 @@ theme [Just the Docs](https://pmarsceill.github.io/just-the-docs/), called
 
 ### Create a new repository from this template
 
-**To get started quickly**, [click here to generate a new repository from this template](https://github.com/MiDataInt/mdi-documentation-template/generate).
+**To get started quickly**, 
+[click here to generate a new repository from this template](https://github.com/MiDataInt/mdi-documentation-template/generate).
 
 You will be prompted for the user and name
 of the repository you would like to create and fill using this template.
@@ -54,7 +54,7 @@ Finally, create documentation page files within the '_docs' folder.
 A few example files are present to help you see how pages are used,
 which you can see in action here:
 
-https://midataint.github.io/mdi-documentation-template/
+- <https://midataint.github.io/mdi-documentation-template/>
 
 ## Just the Docs usage
 
